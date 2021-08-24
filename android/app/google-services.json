@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "968563498622",
+    "firebase_url": "https://reactnativestack.firebaseio.com",
+    "project_id": "reactnativestack",
+    "storage_bucket": "reactnativestack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968563498622:android:ced5d814da86c902",
+        "android_client_info": {
+          "package_name": "com.reactnativestack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968563498622-8696h9b49foshehkc7jeluhaf2l2hl73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47_IbgtRba-MXlsBr2cys4jHt6zatCrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
